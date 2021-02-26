@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Micro Frontends
 - 💬 Ask me about Low-code development platform
-- 📫 How to reach me:  [ZhiHu](https://www.zhihu.com/people/handsamechina)
+- 📫 How to reach me:  [ZhiHu](https://www.zhihu.com/people/handsamechina) & <handsamechina@gmail.com>
+- 👨‍💻 Skills: JavaScript, TypeScript, Node.js, React, git, Nest.js, GraphQL …
+-
 
 <!--
 **hero-guo/hero-guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
